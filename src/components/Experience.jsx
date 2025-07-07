@@ -2,9 +2,21 @@ import React from 'react';
 import FadeInWhenVisible from './FadeInWhenVisible';
 
 const experiences = [
+    {
+    title: "AI Engineering Intern @ PM Accelerator",
+    time: "2025 – Present",
+    description: [
+      "Collaborating with product managers, designers, and data scientists to build full-stack AI and GenAI applications in an agile environment.",
+      "Exploring and applying cutting-edge AI tools, including large language models (LLMs), prompt engineering techniques, and machine learning frameworks.",
+      "Developing and integrating APIs (e.g., OpenAI/ChatGPT) into intelligent, data-driven web applications.",
+      "Contributing to front-end and back-end development with a focus on scalable, AI-enhanced user experiences.",
+      "Assisting in building secure, efficient data pipelines to support machine learning models and product features.",
+      "Conducting technical research on state-of-the-art AI/ML methods and presenting key insights to the development team."
+    ]
+  },
   {
     title: "Fusion ICS Developer @ UC Irvine",
-    time: "2024 – Present",
+    time: "2024 – 2025",
     description: [
       "Built a research listing platform using Supabase and React.",
       "Collaborated in Agile sprints and delivered clean UX using Tailwind.",
@@ -18,14 +30,6 @@ const experiences = [
       "Developed a React Native app for UC Irvine students to preview meals and track nutrition goals.",
       "Used Firebase for user authentication and Firestore for data storage.",
       "Designed clean UI with Expo components and native modules."
-    ]
-  },
-  {
-    title: "Vietnamese Catholic Youth Group Leader",
-    time: "2021 – Present",
-    description: [
-      "Led weekly sessions teaching values, leadership, and team-building to children ages 10–14.",
-      "Organized events and helped design lesson plans and activities."
     ]
   },
   {

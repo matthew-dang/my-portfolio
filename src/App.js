@@ -10,6 +10,13 @@ import Contact from './components/Contact';
 
 
 const projects = [
+    {
+    title: "Discord RAG Bot",
+    description: "Deployed AI-powered Discord bot that answers user questions using Retrieval-Augmented Generation (RAG) with vector search and LLMs.",
+    tech: ["Python", "FastAPI", "FAISS", "Azure AI Inference", "DeepSeek", "Discord.py"],
+    github: "https://github.com/matthew-dang/discord-ragbot",
+    demo: "",
+  },
   {
     title: "DJ-AI Remix Recommender",
     description: "Recommends remix tracks using Siamese networks and audio spectrogram embeddings.",
