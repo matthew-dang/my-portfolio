@@ -17,6 +17,13 @@ const projects = [
     github: "https://github.com/matthew-dang/discord-ragbot",
     demo: "",
   },
+    {
+    title: "SkinAI",
+    description: "Developed a deep learning model in PyTorch to classify skin lesions using dermoscopic images and patient metadata (age, skin type, symptoms)",
+    tech: ["Python", "PyTorch", "CNN",],
+    github: "https://github.com/KUMUNoah/Group30-CoolProject",
+    demo: "",
+  },
   {
     title: "DJ-AI Remix Recommender",
     description: "Recommends remix tracks using Siamese networks and audio spectrogram embeddings.",
