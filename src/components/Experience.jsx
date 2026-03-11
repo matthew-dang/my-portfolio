@@ -44,7 +44,7 @@ const experiences = [
 
 const Experience = () => {
   return (
-    <section id="experience"  className="bg-white p-8 rounded-2xl shadow-md max-w-5xl mx-auto scroll-mt-20">
+    <section id="experience"  className="bg-white p-8 rounded-2xl shadow-md max-w-5xl mx-auto">
       <h2 className="text-3xl font-bold text-emerald-700 mb-6 text-center">Experience</h2>
       <div className="space-y-8">
         {experiences.map((exp, index) => (

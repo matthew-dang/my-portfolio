@@ -12,7 +12,7 @@ const skills = {
 const Skills = () => {
   return (
     <FadeInWhenVisible>
-      <section id="skills" className="bg-white p-8 rounded-2xl shadow-md max-w-5xl mx-auto scroll-mt-20">
+      <section id="skills" className="bg-white p-8 rounded-2xl shadow-md max-w-5xl mx-auto">
         <h2 className="text-3xl font-bold text-emerald-700 mb-6 text-center">Skills</h2>
         <div className="space-y-6">
           {Object.entries(skills).map(([category, items], idx) => (

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Contact = () => {
   return (
-    <section id="contact" className="scroll-mt-24 bg-white p-8 rounded-2xl shadow-md max-w-3xl mx-auto">
+    <section id="contact" className="bg-white p-8 rounded-2xl shadow-md max-w-3xl mx-auto">
       <h2 className="text-3xl font-bold text-emerald-700 mb-6 text-center">Contact</h2>
       <p className="text-center text-gray-700 mb-6">
         Feel free to reach out, I'm always open to collaboration or just chatting about cool ideas.
